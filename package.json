@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-lens-i18n-wrap",
+  "version": "1.0.0",
+  "description": "A babel plugin that wraps JSX text and certain text properties with i18n.t()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasPinellaLooker/babel-plugin-lens-i18n-wrap.git"
+  },
+  "author": "Thomas Pinella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasPinellaLooker/babel-plugin-lens-i18n-wrap/issues"
+  },
+  "homepage": "https://github.com/ThomasPinellaLooker/babel-plugin-lens-i18n-wrap#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-types": "^6.26.0"
+  }
+}
