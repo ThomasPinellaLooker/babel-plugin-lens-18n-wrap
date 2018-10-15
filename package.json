@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-lens-i18n-wrap",
+  "name": "babel-plugin-lens-internationalization",
   "version": "1.0.0",
   "description": "A babel plugin that wraps JSX text and certain text properties with i18n.t()",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThomasPinellaLooker/babel-plugin-lens-i18n-wrap.git"
+    "url": "git+https://github.com/ThomasPinellaLooker/babel-plugin-lens-internationalization.git"
   },
   "author": "Thomas Pinella",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThomasPinellaLooker/babel-plugin-lens-i18n-wrap/issues"
+    "url": "https://github.com/ThomasPinellaLooker/babel-plugin-lens-internationalization/issues"
   },
-  "homepage": "https://github.com/ThomasPinellaLooker/babel-plugin-lens-i18n-wrap#readme",
+  "homepage": "https://github.com/ThomasPinellaLooker/babel-plugin-lens-internationalization#readme",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-types": "^6.26.0"
